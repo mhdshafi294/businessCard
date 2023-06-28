@@ -467,7 +467,7 @@ function App() {
 
 
 Object.defineProperty(exports, "__esModule", {
-    value: true
+  value: true
 });
 exports.default = About;
 
@@ -478,20 +478,20 @@ var _react2 = _interopRequireDefault(_react);
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 function About() {
-    return _react2.default.createElement(
-        "div",
-        { className: "about" },
-        _react2.default.createElement(
-            "h2",
-            null,
-            "About"
-        ),
-        _react2.default.createElement(
-            "p",
-            null,
-            "I am an ambitious computer science student looking to be a React frontend developer soon, with a particular interest in making things simple. I try to keep up with best practices and am always looking for new things to learn."
-        )
-    );
+  return _react2.default.createElement(
+    "div",
+    { className: "about" },
+    _react2.default.createElement(
+      "h2",
+      null,
+      "About"
+    ),
+    _react2.default.createElement(
+      "p",
+      null,
+      "I am an ambitious computer science student looking to be a React, NextJS developer soon, with a particular interest in making things simple. I try to keep up with best practices and am always looking for new things to learn."
+    )
+  );
 }
 
 /***/ }),
